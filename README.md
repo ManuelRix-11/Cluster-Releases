@@ -69,5 +69,4 @@ I file eseguibili pronti all'uso per tutte le piattaforme supportate sono dispon
 
 - 🪟 **Windows**: `Cluster-Setup-x.x.x.exe` (Installer con scelta directory e collegamenti)
 - 🐧 **Linux**: `Cluster-x.x.x-x86_64.AppImage` e archivio `.tar.gz`
-- 🍏 **macOS**: Pacchetti `.dmg` e `.zip`
-- 🤖 **Android**: Pacchetto APK generabile direttamente dal sorgente tramite toolchain Gradle
+- 🍏 **macOS**: Installabile tramite brew (spiegato nella sezione [**Releases**](../../releases))
