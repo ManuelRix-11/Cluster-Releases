@@ -65,8 +65,4 @@ Fatto con ❤️ e caffè. © 2026 Tutti i diritti riservati.
 
 ## 📥 Download Eseguibili
 
-I file eseguibili pronti all'uso per tutte le piattaforme supportate sono disponibili nella sezione [**Releases**](../../releases):
-
-- 🪟 **Windows**: `Cluster-Setup-x.x.x.exe` (Installer con scelta directory e collegamenti)
-- 🐧 **Linux**: `Cluster-x.x.x-x86_64.AppImage` e archivio `.tar.gz`
-- 🍏 **macOS**: Installabile tramite brew (spiegato nella sezione [**Releases**](../../releases))
+I file eseguibili pronti all'uso per tutte le piattaforme supportate sono disponibili nella sezione [**Releases**](../../releases)
